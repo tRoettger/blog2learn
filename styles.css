@@ -1,3 +1,10 @@
 input:hover {
     background-color: #4052aa;
 }
+body {
+    background: linear-gradient(#4052aa, #ffffff);
+    background-size: cover;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
