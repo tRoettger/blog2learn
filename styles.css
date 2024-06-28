@@ -1,10 +1,17 @@
-input:hover {
-    background-color: #4052aa;
+a {
+    background-color: #000000;
+    text-decoration: none;
+    border: 1px solid #ff9720;
+    color: #ff9720;
+}
+a:hover {
+    background-color: #555555;
 }
 body {
-    background: linear-gradient(#4052aa, #ffffff);
+    background: linear-gradient(#000000, #ffffff);
     background-size: cover;
     height: 100vh;
     margin: 0px;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
